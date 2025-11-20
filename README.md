@@ -58,19 +58,34 @@ Interactive Excel dashboard visualizing churn trends by **contract type**, **ten
 <img width="100%" alt="Dashboard" src="https://github.com/user-attachments/assets/09cd3daf-cb3b-42da-9f80-ae47e9491a20" />
 
 **Churn by Contract**
+<details>
+<summary><strong>Churn by Contract Type</strong></summary>
 <img width="570" alt="Churn_by_Contract" src="https://github.com/user-attachments/assets/4a906391-ebbf-4033-8279-846d02108dcd" />
+Month to month contract have the highest churn rate 
 
 **Churn by Payment Method**
+<details>
+<summary><strong>Churn by Payment Method</strong></summary>
 <img width="511" alt="Churn by Payment Method" src="https://github.com/user-attachments/assets/b7bf6c31-3872-4517-aa2e-23f4749a9e52" />
+Electronic payment check users churn the most
 
 **Churn by Tenure**
+<details>
+<summary><strong>Churn by Tenure</strong></summary>
 <img width="587" alt="Churn by Tenure" src="https://github.com/user-attachments/assets/88975851-2ba5-471e-ba09-200fe4838c77" />
+New customers of < 12 months churn the most 
 
 **Churn by Internet Service**
+<details>
+<summary><strong>Churn by Internet Service</strong></summary>
 <img width="593" alt="Churn by Internet Services" src="https://github.com/user-attachments/assets/2abb88dd-0e01-4b45-b3cc-1c0712f198f6" />
+Fiber optic users show the highest churn rate, indicating potential service dissatisfaction.
 
 **Churn by Tech Support**
+<details>
+<summary><strong>Churn by Tech Support</strong></summary>
 <img width="558" alt="Churn by Tech Support" src="https://github.com/user-attachments/assets/35b7c9dd-86dd-4060-a088-7d93474f1d7f" />
+Customers without tech support churn more
 
 ---
 
